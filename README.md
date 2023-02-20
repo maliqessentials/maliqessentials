@@ -12,5 +12,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](link
 
 ### Reach me on
 - <a href="https://linkedin.com/in/sraf-malik-548504210/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
 - malikasyraf30@gmail.com
