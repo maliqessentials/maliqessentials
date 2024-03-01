@@ -9,6 +9,11 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](link
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maliqessentials&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,css,tailwind" />
+  </a>
+</p>
 
 ### Reach me on
 - <a href="https://linkedin.com/in/sraf-malik-548504210/">LinkedIn</a>
