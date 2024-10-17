@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Ashraf
 Perkenalkan nama saya **Malik Ashraf**.\
 Saya seorang **Front end** Dan **Mahasiswa Universitats Multimedia Nusantara**
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/sraf-malik-548504210/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/srafmalik04/)ku ya.
  
 <p align="left">
 <a href="https://github.com/maliqessentials">
